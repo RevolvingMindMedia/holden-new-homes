@@ -58,7 +58,7 @@
                     <p>Landon Homes, KHOV, Newcastle, John Landon Signature Series and Toll Brothers have sold close to 300 homes total as of February 2013!</p>
                 </div>
             </div>
-            <br><br>
+            <br><br><br><br>
             <div class="row text-center">
                 <div class="col-md-4">
                     <img class="img-responsive" src="img/featured-properties/lawler-park.jpg">
