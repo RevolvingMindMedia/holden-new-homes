@@ -53,13 +53,13 @@
                     <p>Prior to his business career, Brad graduated from Plano Senior High School in Plano, Texas in 1997.  He holds a B.A. of Marketing in Business from Abilene Christian University in Abilene, Texas. Along with his Texas Real Estate Brokerage he is also licensed to sell securities with the State of Texas.</p>
                 </div>
                 <div class="col-sm-6">
-                    <img src="img/brad-standing-by-house.jpg" class="img-responsive">
+                    <img src="img/about-us/brad-standing-by-house.jpg" class="img-responsive">
                 </div>
             </div>
             <br><br>
             <div class="row">
                 <div class="col-sm-12">
-                    <img src="img/brad-family.jpg" class="img-responsive">
+                    <img src="img/about-us/brad-family.jpg" class="img-responsive">
                 </div>
             </div>
         </div>
