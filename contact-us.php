@@ -35,12 +35,10 @@
     <?php include('navigation.php'); ?>
 
     <!-- Header -->
-    <header>
+    <header class="mid contact-us">
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Full-service residential real estate brokerage specializing in new homes</div>
-                <div class="intro-heading">We Know Real Estate</div>
-                <a href="contact-us" class="page-scroll btn btn-xl">Contact Us</a>
+                <div class="intro-heading">Contact Us</div>
             </div>
         </div>
     </header>

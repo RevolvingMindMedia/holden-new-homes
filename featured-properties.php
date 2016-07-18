@@ -35,15 +35,46 @@
     <?php include('navigation.php'); ?>
 
     <!-- Header -->
-    <header>
+    <header class="mid featured-properties">
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Full-service residential real estate brokerage specializing in new homes</div>
-                <div class="intro-heading">We Know Real Estate</div>
-                <a href="contact-us" class="page-scroll btn btn-xl">Contact Us</a>
+                <div class="intro-heading">Featured Properties</div>
             </div>
         </div>
     </header>
+
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ceNYx3og3tE" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <p>Minutes to Highway 121 (Sam Rayburn Tollroad) buyers in the new home market in the next couple years will have every convenience that they could imagine within 8 minutes from their door including: Stonebriar Mall, hundreds of restaurants, numerous parks and access to the Dallas North Tollroad. The Community will be called Richwoods.</p>
+                    <p>The highly acclaimed Frisco ISD will make any family moving to DFW very happy providing their children with one of the best school districts in the metroplex.</p>
+                    <p>The City of Frisco has given Richwoods permission to be a gated community. There will be three entrances with the main gate will be located on Independence and Kelmscott.</p>
+                    <p>Landon Homes, KHOV, Newcastle, John Landon Signature Series and Toll Brothers have sold close to 300 homes total as of February 2013!</p>
+                </div>
+            </div>
+            <br><br>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <img class="img-responsive" src="img/featured-properties/lawler-park.jpg">
+                    <caption>Lawler Park</caption>
+                </div>
+                <div class="col-md-4">
+                    <img class="img-responsive" src="img/featured-properties/phillips-creek.jpg">
+                    <caption>Phillips Creek</caption>
+                </div>
+                <div class="col-md-4">
+                    <img class="img-responsive" src="img/featured-properties/austin-ridge.jpg">
+                    <caption>Austin Ridge</caption>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <?php include('footer.php'); ?>
 

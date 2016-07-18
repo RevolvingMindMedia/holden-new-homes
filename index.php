@@ -40,7 +40,7 @@
 			<div class="intro-text">
 				<div class="intro-heading">We Know Real Estate</div>
 				<div class="intro-lead-in">Full-service residential real estate brokerage specializing in new homes</div>
-				<a href="contact-us" class="btn btn-xl">Contact Us</a>
+				<a href="contact-us.php" class="btn btn-xl">Contact Us</a>
 			</div>
 		</div>
 	</header>

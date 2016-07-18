@@ -35,15 +35,23 @@
     <?php include('navigation.php'); ?>
 
     <!-- Header -->
-    <header>
+    <header class="mid neighborhoods">
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Full-service residential real estate brokerage specializing in new homes</div>
-                <div class="intro-heading">We Know Real Estate</div>
-                <a href="contact-us" class="page-scroll btn btn-xl">Contact Us</a>
+                <div class="intro-heading">Neighborhoods</div>
             </div>
         </div>
     </header>
+
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p>Our Featured Neighborhoods are the Communities we take pride in Promoting the New Home Builders Beautiful Design, Great Location, Exceptional Schools, the Development and its Amenities or the Great Deals!  Look around and you just might find that Perfect Location and Dream Home you have been looking for!</p>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <?php include('footer.php'); ?>
 

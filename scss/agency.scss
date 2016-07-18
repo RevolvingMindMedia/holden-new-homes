@@ -273,7 +273,32 @@ header.mid {
 }
 
 .about-us {
-  background: url(../img/about-us.jpg) no-repeat center center scroll;
+  background: url(../img/about-us/about-us.jpg) no-repeat center center scroll;
+  @include background-cover;
+}
+
+.featured-properties {
+  background: url(../img/featured-properties/featured-properties.jpg) no-repeat center center scroll;
+  @include background-cover;
+}
+
+.find-a-home {
+  background: url(../img/find-a-home/find-a-home.jpg) no-repeat center center scroll;
+  @include background-cover;
+}
+
+.sell-a-home {
+  background: url(../img/sell-a-home/sell-a-home.jpg) no-repeat center center scroll;
+  @include background-cover;
+}
+
+.neighborhoods {
+  background: url(../img/neighborhoods/neighborhoods.jpg) no-repeat center center scroll;
+  @include background-cover;
+}
+
+.contact-us {
+  background: url(../img/contact-us/contact-us.jpg) no-repeat center center scroll;
   @include background-cover;
 }
 

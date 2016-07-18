@@ -35,15 +35,29 @@
     <?php include('navigation.php'); ?>
 
     <!-- Header -->
-    <header>
+    <header class="mid sell-a-home">
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Full-service residential real estate brokerage specializing in new homes</div>
-                <div class="intro-heading">We Know Real Estate</div>
-                <a href="contact-us" class="page-scroll btn btn-xl">Contact Us</a>
+                <div class="intro-heading">Sell a Home</div>
             </div>
         </div>
     </header>
+
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p>Everyone knows that the internet is king now for both buying and selling a home. With our experience in the past there are two main factors that actually sell a home. Here they are:</p>
+                    <ol>
+                        <li>Price it right! – Many sellers overprice their home because they are too concerned about what they have added (wood floors, built-ins, granite counter-tops, etc.) and try to add that to the price.</li>
+                        <li>Pictures – The MLS is filled with awful pictures that do not give a home justice online or peak any buyers interest.</li>
+                        <li>Online Marketing – We spend the majority of our marketing money online, where buyers are shopping.</li>
+                    </ol>
+                    <p>With these and other experienced Marketing Techniques it greatly helps eliminate the hassle, anxiety and uncertainty of selling a home. Be real. Look at the numbers. And be okay with what the numbers show is happening in your area. If that doesn’t work, then hold off and sell your home later. You have to be happy.</p>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <?php include('footer.php'); ?>
 
