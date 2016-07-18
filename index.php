@@ -32,50 +32,7 @@
 
 <body id="page-top" class="index">
 
-	<!-- Navigation -->
-	<nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top">
-		<div class="container-fluid">
-			<!-- Brand and toggle get grouped for better mobile display -->
-			<div class="navbar-header">
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-					<span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
-				</button>
-				<a class="navbar-brand" href="index.html" id="logo"></a>
-			</div>
-
-			<!-- Collect the nav links, forms, and other content for toggling -->
-			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-				<ul class="nav navbar-nav navbar-right">
-					<li class="hidden">
-						<a href="#page-top"></a>
-					</li>
-					<li>
-						<a href="about-us.html">About Us</a>
-					</li>
-					<li>
-						<a href="featured-properties.html">Featured Properties</a>
-					</li>
-					<li>
-						<a href="find-a-home.html">Find a Home</a>
-					</li>
-					<li>
-						<a href="sell-a-home.html">Sell a Home</a>
-					</li>
-					<li>
-						<a href="neighborhoods.html">Neighborhoods</a>
-					</li>
-					<li>
-						<a href="https://updatefrisco.com/" target="_blank">Blog</a>
-					</li>
-					<li>
-						<a href="contact-us.html">Contact Us</a>
-					</li>
-				</ul>
-			</div>
-			<!-- /.navbar-collapse -->
-		</div>
-		<!-- /.container-fluid -->
-	</nav>
+	<?php include('navigation.php'); ?>
 
 	<!-- Header -->
 	<header class="full">
@@ -207,18 +164,13 @@
 	<section id="testamonials" class="bg-light-gray">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-12 text-center">
-					<h2 class="section-heading">Featured Cities</h2>
-					<h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-				</div>
-			</div>
-			<div class="row text-center">
 				<div class="col-md-8 col-md-offset-2">
-					<span class="fa-stack fa-4x">
+					<span class="fa-stack fa-4x pull-left">
 						<i class="fa fa-circle fa-stack-2x text-primary"></i>
 						<i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
 					</span>
-					<h4 class="service-heading">Frisco, TX</h4>
+					<p>"Brad was very responsive, and he went over and above to find us a great home in Frisco in just one day. And he's down-to-earth: 0% pretense, 100% professional."</p>
+					<h4>Mike & Kelly Lee</h4>
 				</div>
 			</div>
 		</div>
