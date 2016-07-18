@@ -81,7 +81,7 @@
 				</div>
 				<div class="col-sm-6 portfolio-item">
 					<div class="embed-responsive embed-responsive-16by9">
-					    <iframe class="embed-responsive-item" src="//www.youtube.com/embed/ePbKGoIGAXY" frameborder="0" allowfullscreen></iframe>
+					    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/suhGDF6TvY0" frameborder="0" allowfullscreen></iframe>
 					</div>
 					<div class="portfolio-caption">
 						<h4>Download a Plat Map of Lawler Park in Frisco, Texas and the builders plans</h4>
@@ -91,7 +91,7 @@
 			<div class="row">
 				<div class="col-sm-6 portfolio-item">
 					<div class="embed-responsive embed-responsive-16by9">
-					    <iframe class="embed-responsive-item" src="//www.youtube.com/embed/ePbKGoIGAXY" frameborder="0" allowfullscreen></iframe>
+					    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/suhGDF6TvY0" frameborder="0" allowfullscreen></iframe>
 					</div>
 					<div class="portfolio-caption">
 						<h4>For more on Newman Village in Frisco, Texas and Available Homes</h4>
@@ -99,7 +99,7 @@
 				</div>
 				<div class="col-sm-6 portfolio-item">
 					<div class="embed-responsive embed-responsive-16by9">
-					    <iframe class="embed-responsive-item" src="//www.youtube.com/embed/ePbKGoIGAXY" frameborder="0" allowfullscreen></iframe>
+					    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/suhGDF6TvY0" frameborder="0" allowfullscreen></iframe>
 					</div>
 					<div class="portfolio-caption">
 						<h4>See a list of available homes today at Star Creek in Allen, Texas</h4>
