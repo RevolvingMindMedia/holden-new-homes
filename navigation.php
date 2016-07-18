@@ -6,7 +6,7 @@
 			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
 				<span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
 			</button>
-			<a class="navbar-brand" href="index.html" id="logo"></a>
+			<a class="navbar-brand" href="index.php" id="logo"></a>
 		</div>
 
 		<!-- Collect the nav links, forms, and other content for toggling -->
@@ -16,25 +16,25 @@
 					<a href="#page-top"></a>
 				</li>
 				<li>
-					<a href="about-us.html">About Us</a>
+					<a href="about-us.php">About Us</a>
 				</li>
 				<li>
-					<a href="featured-properties.html">Featured Properties</a>
+					<a href="featured-properties.php">Featured Properties</a>
 				</li>
 				<li>
-					<a href="find-a-home.html">Find a Home</a>
+					<a href="find-a-home.php">Find a Home</a>
 				</li>
 				<li>
-					<a href="sell-a-home.html">Sell a Home</a>
+					<a href="sell-a-home.php">Sell a Home</a>
 				</li>
 				<li>
-					<a href="neighborhoods.html">Neighborhoods</a>
+					<a href="neighborhoods.php">Neighborhoods</a>
 				</li>
 				<li>
 					<a href="https://updatefrisco.com/" target="_blank">Blog</a>
 				</li>
 				<li>
-					<a href="contact-us.html">Contact Us</a>
+					<a href="contact-us.php">Contact Us</a>
 				</li>
 			</ul>
 		</div>

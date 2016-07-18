@@ -3,8 +3,8 @@
 	  <div class="row">
 		<div class="col-md-3">
 		  <ul class="list-unstyled">
-			<li><a href="about-us.html">About Us</a></li>
-			<li><a href="contact-us.html">Contact Us</a></li>
+			<li><a href="about-us.php">About Us</a></li>
+			<li><a href="contact-us.php">Contact Us</a></li>
 			<li><a href="#">Newsroom</a></li>
 			<div class="row">
 				<div class="text-center">
@@ -15,10 +15,10 @@
 		</div>
 		<div class="col-md-3">
 		  <ul class="list-unstyled">
-			<li><a href="featured-properties.html">Featured Properties</a></li>
-			<li><a href="find-a-home.html">Find a Home</a></li>
-			<li><a href="sell-a-home.html">Sell a Home</a></li>
-			<li><a href="neighborhoods.html">Neighborhoods</a></li>
+			<li><a href="featured-properties.php">Featured Properties</a></li>
+			<li><a href="find-a-home.php">Find a Home</a></li>
+			<li><a href="sell-a-home.php">Sell a Home</a></li>
+			<li><a href="neighborhoods.php">Neighborhoods</a></li>
 		  </ul>
 		</div>
 		<div class="col-md-3">
