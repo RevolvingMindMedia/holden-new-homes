@@ -50,6 +50,9 @@ h6 {
 .img-centered {
   margin: 0 auto; }
 
+.bg-white {
+  background-color: white; }
+
 .bg-light-gray {
   background-color: #f7f7f7; }
 
@@ -246,47 +249,51 @@ header.mid {
       line-height: 75px;
       margin-bottom: 25px; } }
 
-.about-us {
+header.about-us {
   background: url(../img/about-us/about-us.jpg) no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover; }
 
-.featured-properties {
+header.featured-properties {
   background: url(../img/featured-properties/featured-properties.jpg) no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover; }
 
-.find-a-home {
+header.find-a-home {
   background: url(../img/find-a-home/find-a-home.jpg) no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover; }
 
-.sell-a-home {
+header.sell-a-home {
   background: url(../img/sell-a-home/sell-a-home.jpg) no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover; }
 
-.neighborhoods {
+header.neighborhoods {
   background: url(../img/neighborhoods/neighborhoods.jpg) no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover; }
 
-.contact-us {
+header.contact-us {
   background: url(../img/contact-us/contact-us.jpg) no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover; }
+
+.neighborhood-item .col-md-12 {
+  background-color: white;
+  padding: 20px 10px; }
 
 section {
   padding: 100px 0; }

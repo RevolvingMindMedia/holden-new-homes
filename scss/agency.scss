@@ -59,6 +59,10 @@ h6 {
   margin: 0 auto;
 }
 
+.bg-white {
+  background-color: white;
+}
+
 .bg-light-gray {
   background-color: $gray-lighter;
 }
@@ -272,34 +276,41 @@ header.mid {
   }
 }
 
-.about-us {
+header.about-us {
   background: url(../img/about-us/about-us.jpg) no-repeat center center scroll;
   @include background-cover;
 }
 
-.featured-properties {
+header.featured-properties {
   background: url(../img/featured-properties/featured-properties.jpg) no-repeat center center scroll;
   @include background-cover;
 }
 
-.find-a-home {
+header.find-a-home {
   background: url(../img/find-a-home/find-a-home.jpg) no-repeat center center scroll;
   @include background-cover;
 }
 
-.sell-a-home {
+header.sell-a-home {
   background: url(../img/sell-a-home/sell-a-home.jpg) no-repeat center center scroll;
   @include background-cover;
 }
 
-.neighborhoods {
+header.neighborhoods {
   background: url(../img/neighborhoods/neighborhoods.jpg) no-repeat center center scroll;
   @include background-cover;
 }
 
-.contact-us {
+header.contact-us {
   background: url(../img/contact-us/contact-us.jpg) no-repeat center center scroll;
   @include background-cover;
+}
+
+.neighborhood-item {
+  .col-md-12 {
+    background-color: white;
+    padding: 20px 10px;
+  }
 }
 
 // Global Section Styles
