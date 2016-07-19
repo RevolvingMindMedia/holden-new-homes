@@ -43,6 +43,110 @@
         </div>
     </header>
 
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h2 class="text-center">Buy a Home</h2>
+                    <br>
+                    <br>
+                    <form class="form-horizontal" role="form">
+                        <div class="form-group">
+                            <label class="control-label col-sm-4" for="">Property Type</label>
+                            <div class="col-sm-8">
+                                <select class="form-control">
+                                    <option value="primary">Primary Residence</option>
+                                    <option value="secondary">Second Home</option>
+                                    <option value="investment">Investment Property</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-4" for="buy-first-last-name">First and Last Name: </label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control" id="buy-first-last-name" placeholder="First and last name">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-4" for="buy-email">Email Address: </label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control" id="buy-email" placeholder="Email address">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-4" for="buy-phone">Phone Number: </label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control" id="buy-phone" placeholder="Phone number">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-4" for="buy-contact">Please contact me via: </label>
+                            <div class="col-sm-8" id="buy-contact">
+                                <input type="radio" id="buy-contact-phone"> Phone
+                                <input type="radio" id="buy-contact-email"> Email
+                            </div>
+                        </div>
+                        <br>
+                        <div class="form-group"> 
+                            <div class="col-sm-12 text-center">
+                                <button type="submit" class="btn btn-default">Submit</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-md-6">
+                    <h2 class="text-center">Sell a Home</h2>
+                    <br>
+                    <br>
+                    <form class="form-horizontal" role="form">
+                        <div class="form-group">
+                            <label class="control-label col-sm-4" for="">I would like to sell </label>
+                            <div class="col-sm-8">
+                                <select class="form-control">
+                                    <option value="now">Now</option>
+                                    <option value="one-month">Within one month</option>
+                                    <option value="two-months">Within two months</option>
+                                    <option value="three-months-or-more">Three months or more</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-4" for="sell-first-last-name">First and Last Name: </label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control" id="sell-first-last-name" placeholder="First and last name">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-4" for="sell-email">Email Address: </label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control" id="sell-email" placeholder="Email address">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-4" for="sell-phone">Phone Number: </label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control" id="sell-phone" placeholder="Phone number">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-4" for="sell-contact">Please contact me via: </label>
+                            <div class="col-sm-8" id="sell-contact">
+                                <input type="radio" id="sell-contact-phone"> Phone
+                                <input type="radio" id="sell-contact-email"> Email
+                            </div>
+                        </div>
+                        <br>
+                        <div class="form-group"> 
+                            <div class="col-sm-12 text-center">
+                                <button type="submit" class="btn btn-default">Submit</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <?php include('footer.php'); ?>
 
     <!-- jQuery -->

@@ -48,8 +48,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <p>DFW Homes, more specifically North Texas Homes can be a difficult task due to the amount of home builders in Texas and Texas property for sale.</p>
-                    <p>We at Holden New Homes, have made the North Texas home search easier than ever by starting with each city to find your Collin County home.</p>
-                    <p>Whether you are looking for Plano homes, Frisco homes, Prosper homes, McKinney homes, Allen homes, Little Elm homes or The Colony homes, you have found the right website.</p>
+                    <p>We at Holden New Homes, have made the North Texas home search easier than ever by starting with each city to find your Collin County home. Whether you are looking for Plano homes, Frisco homes, Prosper homes, McKinney homes, Allen homes, Little Elm homes or The Colony homes, you have found the right website.</p>
                     <p>As Frisco realtors since 2005, we have compiled the best Frisco builders and have visited each city nearby to gather the most up to date information on New Homes in Collin County.</p>
                 </div>
             </div>

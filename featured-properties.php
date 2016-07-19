@@ -61,16 +61,25 @@
             <br><br><br><br>
             <div class="row text-center">
                 <div class="col-md-4">
-                    <img class="img-responsive" src="img/featured-properties/lawler-park.jpg">
-                    <caption>Lawler Park</caption>
+                    <a href="http://lawlerparkfrisco.com/lawler-park-frisco-homesites/" target="_blank">
+                        <img class="img-responsive" src="img/featured-properties/lawler-park.jpg">
+                        <br>
+                        <caption>Lawler Park</caption>
+                    </a>
                 </div>
                 <div class="col-md-4">
-                    <img class="img-responsive" src="img/featured-properties/phillips-creek.jpg">
-                    <caption>Phillips Creek</caption>
+                    <a href="http://phillipscreek.com/phillips-creek-ranch-frisco/" target="_blank">
+                        <img class="img-responsive" src="img/featured-properties/phillips-creek.jpg">
+                        <br>
+                        <caption>Phillips Creek</caption>
+                    </a>
                 </div>
                 <div class="col-md-4">
-                    <img class="img-responsive" src="img/featured-properties/austin-ridge.jpg">
-                    <caption>Austin Ridge</caption>
+                    <a href="http://friscohomesites.com/landon-homes-in-austin-ridge-at-lone-star-ranch-in-frisco-texas/" target="_blank">
+                        <img class="img-responsive" src="img/featured-properties/austin-ridge.jpg">
+                        <br>
+                        <caption>Austin Ridge</caption>
+                    </a>
                 </div>
             </div>
         </div>
