@@ -1,7 +1,6 @@
 /*!
- * Start Bootstrap - Agency v1.1.0 (http://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ * Revolving Mind Media - Holden New Homes v1.1.0 (http://holdennewhomes.com)
+ * Copyright 2016-2016 Rahul Dhir
  */
 body {
   overflow-x: hidden;
@@ -296,7 +295,7 @@ header.contact-us {
   padding: 20px 10px; }
 
 section {
-  padding: 100px 0; }
+  padding: 75px 0; }
   section h2.section-heading {
     font-size: 40px;
     margin-top: 0;
@@ -311,7 +310,7 @@ section {
 
 @media (min-width: 768px) {
   section {
-    padding: 150px 0; } }
+    padding: 100px 0; } }
 
 .spacer {
   background-color: #0c1b7b;

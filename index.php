@@ -176,6 +176,21 @@
 		</div>
 	</section>
 
+	<!-- Featured Home Section -->
+	<section id="featured-home">
+		<div class="container">
+			<div class="row text-center">
+				<div class="col-md-12">
+					<h2>Featured Home</h2>
+					<br><br>
+					<div class="embed-responsive embed-responsive-16by9">
+					    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ceNYx3og3tE" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
 	<!-- Clients Aside -->
 	<aside class="clients">
 		<div class="container">

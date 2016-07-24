@@ -46,10 +46,57 @@
     <section>
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-6">
                     <p>DFW Homes, more specifically North Texas Homes can be a difficult task due to the amount of home builders in Texas and Texas property for sale.</p>
                     <p>We at Holden New Homes, have made the North Texas home search easier than ever by starting with each city to find your Collin County home. Whether you are looking for Plano homes, Frisco homes, Prosper homes, McKinney homes, Allen homes, Little Elm homes or The Colony homes, you have found the right website.</p>
                     <p>As Frisco realtors since 2005, we have compiled the best Frisco builders and have visited each city nearby to gather the most up to date information on New Homes in Collin County.</p>
+                </div>
+                <div class="col-md-6">
+                    <img src="http://placehold.it/500x500" class="img-responsive">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-light-gray">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <a href="#" target="_blank">
+                        <img class="img-responsive" src="http://placehold.it/360x270">
+                        <br>
+                        <caption>Richwoods in Frisco</caption>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="http://lawlerparkfrisco.com/lawler-park-frisco-homesites/" target="_blank">
+                        <img class="img-responsive" src="img/featured-properties/lawler-park.jpg">
+                        <br>
+                        <caption>Lawler Park</caption>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="http://phillipscreek.com/phillips-creek-ranch-frisco/" target="_blank">
+                        <img class="img-responsive" src="img/featured-properties/phillips-creek.jpg">
+                        <br>
+                        <caption>Phillips Creek</caption>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="http://placehold.it/500x500" class="img-responsive">
+                </div>
+                <div class="col-md-6">
+                    <h3>DFW New Home Deals</h3>
+                    <p>Our DFW home reputation within the community has allowed us to build special relationships with home builders in Texas.  This has allowed us to pass new home opportunities to our clients whether its Frisco homes, McKinney homes or any Collin County home.</p>
+                    <p>Frisco builders often contact us for help in finding buyers for their spec homes for sale in Frisco.  Other North Texas home builders give us their bottom line pricing that we also can pass along to our clients.</p>
+                    <p>If you are looking today for a North Texas Home in Frisco, McKinney, Plano or Allen give us a call at    (469) 733-2723 and see what our weekly new home opportunities are and you will not be disappointed.  We are here to help.</p>
                 </div>
             </div>
         </div>

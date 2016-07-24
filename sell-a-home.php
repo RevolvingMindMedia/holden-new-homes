@@ -59,6 +59,36 @@
         </div>
     </section>
 
+    <section class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <img class="img-responsive" src="img/sell-a-home/marketing-tools.jpg">
+                </div>
+                <div class="col-md-6">
+                    <h3>Marketing Syndication Partners</h3>
+                    <p>Syndication of any product, especially listed homes, is becoming one of the fastest growing advertising mediums on the Internet today.</p>
+                    <p>giving listings maximum exposure online makes perfect sense and Holden New Homes has partnered with Point2 Agent, which currently has the largest syndication network in the real estate industry, with new partners being added frequently.</p>
+                    <p>The have included some of the highest trafficked search sites on the internet!</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h3>Set Yourself Apart</h3>
+                    <p>Teaming with Holden New Homes and our Partners allows your Property to have the Highest number of Syndication Partners Available (35+) and more being included all the time, Holden New Homes Provides you with a Competitive Edge above other Real Estate Professionals. Syndication gives you an Advantage that is clear to Buyers in Todays Market considering over 90% of all Purchases begin Online.</p>
+                </div>
+                <div class="col-md-6">
+                    <img class="img-responsive" src="http://placehold.it/500x500">
+                </div>
+            </div>
+        </div>
+    </section>
+
     <?php include('footer.php'); ?>
 
     <!-- jQuery -->
