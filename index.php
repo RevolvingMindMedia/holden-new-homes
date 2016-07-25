@@ -164,13 +164,12 @@
 	<section id="testamonials" class="bg-light-gray">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-8 col-md-offset-2">
-					<span class="fa-stack fa-4x pull-left">
-						<i class="fa fa-circle fa-stack-2x text-primary"></i>
-						<i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
-					</span>
-					<p>"Brad was very responsive, and he went over and above to find us a great home in Frisco in just one day. And he's down-to-earth: 0% pretense, 100% professional."</p>
-					<h4>Mike & Kelly Lee</h4>
+				<div class="testamonial col-md-8 col-md-offset-2">
+					<div class="testamonial-image"><img src="img/testamonials/lee_family.jpg"></div>
+					<div class="testamonial-caption">
+						<p>"Brad was very responsive, and he went over and above to find us a great home in Frisco in just one day. And he's down-to-earth: 0% pretense, 100% professional."</p>
+						<h4>Mike & Kelly Lee</h4>
+					</div>
 				</div>
 			</div>
 		</div>
