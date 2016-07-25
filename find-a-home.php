@@ -61,6 +61,13 @@
     <section class="bg-light-gray">
         <div class="container">
             <div class="row text-center">
+                <div class="col-md-12">
+                    <h2>Featured Communities</h2>
+                </div>
+            </div>
+            <br>
+            <br>
+            <div class="row text-center">
                 <div class="col-md-4">
                     <a href="#" target="_blank">
                         <img class="img-responsive" src="http://placehold.it/360x270">
@@ -90,7 +97,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <img src="http://placehold.it/500x500" class="img-responsive">
+                    <img src="img/find-a-home/find-a-home-billboards.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-6">
                     <h3>DFW New Home Deals</h3>

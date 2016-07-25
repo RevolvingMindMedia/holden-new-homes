@@ -85,6 +85,70 @@
         </div>
     </section>
 
+    <section class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <h2 class="text-center">Contact Us</h2>
+                    <br>
+                    <br>
+                    <form class="form-horizontal" role="form">
+                        <div class="form-group">
+                            <label class="control-label col-sm-4" for="buy-first-last-name">First and Last Name: </label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control" id="buy-first-last-name" placeholder="First and last name">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-4" for="buy-email">Email Address: </label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control" id="buy-email" placeholder="Email address">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-4" for="buy-phone">Phone Number: </label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control" id="buy-phone" placeholder="Phone number">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-4" for="buy-housing-status">I currently: </label>
+                            <div class="col-sm-8" id="buy-housing-status">
+                                <input type="radio" id="buy-housing-status-own"> Own
+                                <input type="radio" id="buy-housing-status-rent"> Rent
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-4" for="">Builder I am interested in: </label>
+                            <div class="col-sm-8">
+                                <select class="form-control">
+                                    <option value="toll-brothers">Toll Brothers</option>
+                                    <option value="landon-homes">Landon Homes</option>
+                                    <option value="k-hovnanian">K Hovnanian</option>
+                                    <option value="newcastle-homes">Newcastle Homes</option>
+                                    <option value="dont-know">Don't know</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-sm-4" for="buy-platt-map">I would like a copy of the Platt map: </label>
+                            <div class="col-sm-8" id="buy-platt-map">
+                                <input type="radio" id="buy-platt-map-yes"> Yes
+                                <input type="radio" id="buy-platt-map-no"> No
+                            </div>
+                        </div>
+                        <br>
+                        <div class="form-group"> 
+                            <div class="col-sm-12 text-center">
+                                <button type="submit" class="btn btn-default">Submit</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <?php include('footer.php'); ?>
 
     <!-- jQuery -->

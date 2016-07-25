@@ -83,7 +83,7 @@
                     <p>Teaming with Holden New Homes and our Partners allows your Property to have the Highest number of Syndication Partners Available (35+) and more being included all the time, Holden New Homes Provides you with a Competitive Edge above other Real Estate Professionals. Syndication gives you an Advantage that is clear to Buyers in Todays Market considering over 90% of all Purchases begin Online.</p>
                 </div>
                 <div class="col-md-6">
-                    <img class="img-responsive" src="http://placehold.it/500x500">
+                    <img class="img-responsive" src="img/sell-a-home/dfw-cashout-logo.jpg">
                 </div>
             </div>
         </div>
