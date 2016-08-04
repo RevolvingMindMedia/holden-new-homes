@@ -62,6 +62,13 @@
                     <img src="img/about-us/brad-family.jpg" class="img-responsive">
                 </div>
             </div>
+            <br><br><br><br>
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <em>"On behalf of everyone at Holden New Homes, we would like to Thank You for choosing us for your Real Estate Needs."</em>
+                    <h4>Brad Holden</h4>
+                </div>
+            </div>
         </div>
     </section>
 

@@ -70,7 +70,7 @@
             <div class="row text-center">
                 <div class="col-md-4">
                     <a href="#" target="_blank">
-                        <img class="img-responsive" src="http://placehold.it/360x270">
+                        <img class="img-responsive" src="img/featured-properties/richwoods.jpg">
                         <br>
                         <caption>Richwoods in Frisco</caption>
                     </a>
