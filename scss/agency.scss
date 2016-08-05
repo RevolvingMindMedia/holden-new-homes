@@ -35,7 +35,7 @@ a:hover {
 }
 
 a {
-  color: $brand-primary;
+  color: lighten($brand-primary, 10%);
 }
 
 a.active,
@@ -91,7 +91,7 @@ h6 {
 // Custom Navigation Bar
 
 .navbar-default {
-  background-color: $gray-darkest;
+  background-color: #fff;
   border-color: transparent;
 
   #logo {
@@ -109,6 +109,7 @@ h6 {
   .navbar-toggle {
     background-color: $brand-primary;
     border-color: $brand-primary;
+    color: #fff;
 
     .icon-bar {
       background-color: white;

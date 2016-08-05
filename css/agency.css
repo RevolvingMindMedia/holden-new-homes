@@ -28,7 +28,7 @@ a:hover {
   outline: none; }
 
 a {
-  color: #0c1b7b; }
+  color: #1125a9; }
 
 a.active,
 a:active,
@@ -116,7 +116,7 @@ h6 {
     background-color: white; }
 
 .navbar-default {
-  background-color: #222;
+  background-color: #fff;
   border-color: transparent; }
   .navbar-default #logo {
     background: url(../img/logos/holden-new-homes-logo.png) no-repeat top left;
@@ -128,7 +128,8 @@ h6 {
     border-color: fade(white, 2%); }
   .navbar-default .navbar-toggle {
     background-color: #0c1b7b;
-    border-color: #0c1b7b; }
+    border-color: #0c1b7b;
+    color: #fff; }
     .navbar-default .navbar-toggle .icon-bar {
       background-color: white; }
     .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
