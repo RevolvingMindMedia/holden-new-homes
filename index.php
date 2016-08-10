@@ -71,7 +71,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-sm-6 portfolio-item">
+				<div class="col-sm-4 portfolio-item">
 					<div class="embed-responsive embed-responsive-16by9">
 					    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ceNYx3og3tE" frameborder="0" allowfullscreen></iframe>
 					</div>
@@ -79,7 +79,7 @@
 						<h4>See more about Richwoods and the builders pricing in Frisco, Texas</h4>
 					</div>
 				</div>
-				<div class="col-sm-6 portfolio-item">
+				<div class="col-sm-4 portfolio-item">
 					<div class="embed-responsive embed-responsive-16by9">
 					    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/suhGDF6TvY0" frameborder="0" allowfullscreen></iframe>
 					</div>
@@ -87,22 +87,12 @@
 						<h4>Download a Plat Map of Lawler Park in Frisco, Texas and the builders plans</h4>
 					</div>
 				</div>
-			</div>
-			<div class="row">
-				<div class="col-sm-6 portfolio-item">
+				<div class="col-sm-4 portfolio-item">
 					<div class="embed-responsive embed-responsive-16by9">
 					    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/suhGDF6TvY0" frameborder="0" allowfullscreen></iframe>
 					</div>
 					<div class="portfolio-caption">
 						<h4>For more on Newman Village in Frisco, Texas and Available Homes</h4>
-					</div>
-				</div>
-				<div class="col-sm-6 portfolio-item">
-					<div class="embed-responsive embed-responsive-16by9">
-					    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/suhGDF6TvY0" frameborder="0" allowfullscreen></iframe>
-					</div>
-					<div class="portfolio-caption">
-						<h4>See a list of available homes today at Star Creek in Allen, Texas</h4>
 					</div>
 				</div>
 			</div>

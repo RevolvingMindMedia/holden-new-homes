@@ -42,8 +42,6 @@
 
 <body id="page-top" class="index">
 
-	<?php include('navigation.php'); ?>
-
 	<!-- Header -->
 	<header class="mid">
 		<div class="container">
@@ -97,8 +95,6 @@
 			</div>
 		</div>
 	</section>
-
-	<?php include('footer.php'); ?>
 
 	<!-- jQuery -->
 	<script src="vendor/jquery/jquery.min.js"></script>

@@ -45,6 +45,18 @@
 
     <section>
         <div class="container">
+            <div class="row text-center">
+                <div class="col-md-12">
+                    <h2 class="brand-primary">Brad Holden</h2>
+                    <h3><span class="fa fa-phone"></span> (469) 733-2723</h3>
+                    <h4>14074 Willow Bend <br>Frisco, Texas 75035</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-light-gray">
+        <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <h2 class="text-center">Buy a Home</h2>

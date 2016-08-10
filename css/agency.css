@@ -58,6 +58,9 @@ h6 {
 .bg-darkest-gray {
   background-color: #222; }
 
+.brand-primary {
+  color: #0c1b7b; }
+
 .btn-primary {
   color: white;
   background-color: #0c1b7b;
@@ -114,6 +117,12 @@ h6 {
   .btn-xl .badge {
     color: #0c1b7b;
     background-color: white; }
+
+.btn-outline {
+  padding: 10px 20px;
+  border: 1px solid white; }
+  .btn-outline:focus, .btn-outline:hover {
+    border: 1px solid #aaaaaa; }
 
 .navbar-default {
   background-color: #fff;
@@ -483,7 +492,7 @@ section#contact {
     color: #e74c3c; }
 
 footer {
-  background-color: #222;
+  background-color: #0c1b7b;
   color: #fff;
   padding: 25px 0;
   text-align: center; }

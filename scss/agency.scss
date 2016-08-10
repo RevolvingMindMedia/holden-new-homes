@@ -71,6 +71,10 @@ h6 {
   background-color: $gray-darkest;
 }
 
+.brand-primary {
+  color: $brand-primary;
+}
+
 // Restyled Primary Buttons
 
 .btn-primary {
@@ -86,6 +90,16 @@ h6 {
   border-radius: 3px;
   font-size: 18px;
   padding: 20px 40px;
+}
+
+.btn-outline {
+  padding: 10px 20px;
+  border: 1px solid white;
+
+  &:focus,
+  &:hover {
+    border: 1px solid lighten($gray, 20%);
+  }
 }
 
 // Custom Navigation Bar
@@ -595,7 +609,7 @@ section#contact {
 // Footer
 
 footer {
-  background-color: $gray-darkest;
+  background-color: $brand-primary;
   color: #fff;
   padding: 25px 0;
   text-align: center;
