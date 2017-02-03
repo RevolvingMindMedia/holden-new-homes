@@ -117,17 +117,6 @@
                 <div class="col-md-3 neighborhood-item">
                     <a href="#">
                         <div class="col-md-12">
-                            <img src="img/neighborhoods/newman-village.jpg" class="img-responsive">
-                            <br>
-                            <h3>Newman Village</h3>
-                            <h4>Frisco, Texas</h4>
-                            <h5>$390's-$750's</h5>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-3 neighborhood-item">
-                    <a href="#">
-                        <div class="col-md-12">
                             <img src="img/neighborhoods/star-creek.jpg" class="img-responsive">
                             <br>
                             <h3>StarCreek</h3>
