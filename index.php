@@ -47,7 +47,7 @@
 
 	<aside class="spacer text-center">
 		<h1>Call Us Today! (469) 733-2723</h1>
-		<p>Holden New Homes is a Frisco Texas full-service residential real estate brokerage specializing in new homes in Frisco, Plano, Allen and McKinney. Our special relationships with home builders allows us to pass their best pricing and incentives to our clients. With over 10 years of experience in the Collin County and the DFW metroplex, Holden New Homes knows real estate!</p>
+		<p>Holden New Homes is a Frisco, Texas full-service residential real estate brokerage specializing in new homes in Frisco, Plano, Allen, Prosper and McKinney. Our special relationships with builders and developers allow us to pass their best pricing and incentives to our clients.  With over 13 years of experience in Collin County and the DFW Metroplex, Holden New Homes knows Real Estate!</p>
 	</aside>
 
 	<section>
@@ -66,17 +66,33 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12 text-center">
-					<h2 class="section-heading">Featured Community</h2>
+					<h2 class="section-heading">Featured Communities</h2>
 					<br>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-sm-4 col-sm-offset-4 portfolio-item">
+				<div class="col-sm-4 portfolio-item">
 					<div class="embed-responsive embed-responsive-16by9">
 					    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ceNYx3og3tE" frameborder="0" allowfullscreen></iframe>
 					</div>
 					<div class="portfolio-caption">
-						<h4>See more about Richwoods and the builders pricing in Frisco, Texas</h4>
+						<h4>For more text RICHWOODS to (469)733-2723</h4>
+					</div>
+				</div>
+				<div class="col-sm-4 portfolio-item">
+					<div class="embed-responsive embed-responsive-16by9">
+					    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ceNYx3og3tE" frameborder="0" allowfullscreen></iframe>
+					</div>
+					<div class="portfolio-caption">
+						<h4>For more on Lexington in Frisco click <a href="https://updatefrisco.com/2015/09/02/announcing-lexington-in-frisco-a-new-gated-community-with-shaddock-homes-k-hovnanian-homes-khov-toll-brothers-and-landon-signature-series-homes/" target="_blank">here</a></h4>
+					</div>
+				</div>
+				<div class="col-sm-4 portfolio-item">
+					<div class="embed-responsive embed-responsive-16by9">
+					    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ceNYx3og3tE" frameborder="0" allowfullscreen></iframe>
+					</div>
+					<div class="portfolio-caption">
+						<h4>For more on Edgestone in Frisco click <a href="https://updatefrisco.com/2015/08/28/edgestone-at-legacy-in-frisco-announced-by-developer-hines-for-2016/" target="_blank">here</a></h4>
 					</div>
 				</div>
 			</div>
@@ -91,11 +107,11 @@
 					<h2>Featured Cities</h2>
 					<br><br><br>
 					<ul class="list-unstyled">
-		                <li id="frisco"><a href="#">Frisco, TX</a></li>
-		                <li id="plano"><a href="#">Plano, TX</a></li>
-		                <li id="mckinney"><a href="#">McKinney, TX</a></li>
-		                <li id="allen"><a href="#">Allen, TX</a></li>
-		                <li id="prosper"><a href="#">Propser, TX</a></li>
+		                <li id="frisco"><a href="https://updatefrisco.com/category/frisco-homes-2/">Frisco, TX</a></li>
+				<li id="plano"><a href="https://updatefrisco.com/category/plano-homes-2/">Plano, TX</a></li>
+				<li id="mckinney"><a href="https://updatefrisco.com/category/mckinney-homes/">McKinney, TX</a></li>
+				<li id="allen"><a href="https://updatefrisco.com/category/allen-homes/">Allen, TX</a></li>
+				<li id="prosper"><a href="https://updatefrisco.com/category/prosper-homes/">Propser, TX</a></li>
 		            </ul>
 				</div>
 			</div>
@@ -117,7 +133,7 @@
 		</div>
 	</section>
 
-	<!-- Featured Home Section -->
+	<!-- Featured Home Section 
 	<section id="featured-home">
 		<div class="container">
 			<div class="row text-center">
@@ -130,7 +146,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 	<!-- Clients Aside -->
 	<aside class="clients">
@@ -141,33 +157,23 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-2 col-sm-6">
-					<a href="#">
+				<div class="col-md-3 col-sm-6">
+					<a href="http://www.youplusdallas.com/" target="_blank">
 						<img src="img/logos/you-dallas-logo.jpg" class="img-responsive img-centered" alt="">
 					</a>
 				</div>
-				<div class="col-md-2 col-sm-6">
-					<a href="#">
-						<img src="img/logos/adobe-title-logo.jpg" class="img-responsive img-centered" alt="">
-					</a>
-				</div>
-				<div class="col-md-2 col-sm-6">
-					<a href="#">
+				<div class="col-md-3 col-sm-6">
+					<a href="http://candysdirt.com/" target="_blank">
 						<img src="img/logos/candys-dirt-logo.jpg" class="img-responsive img-centered" alt="">
 					</a>
 				</div>
-				<div class="col-md-2 col-sm-6">
-					<a href="#">
-						<img src="img/logos/dfw-cashout-logo.jpg" class="img-responsive img-centered" alt="">
+				<div class="col-md-3 col-sm-6">
+					<a href="http://revolvingmindmedia.com/" target="_blank">
+						<img src="img/logos/revolving-mind-media-logo.jpg" class="img-responsive img-centered" alt="">
 					</a>
 				</div>
-				<div class="col-md-2 col-sm-6">
-					<a href="#">
-						<img src="img/logos/fraser-fine-homes-logo.jpg" class="img-responsive img-centered" alt="">
-					</a>
-				</div>
-				<div class="col-md-2 col-sm-6">
-					<a href="#">
+				<div class="col-md-3 col-sm-6">
+					<a href="http://www.thenannyagencyinc.com/" target="_blank">
 						<img src="img/logos/nanny-agency-logo.jpg" class="img-responsive img-centered" alt="">
 					</a>
 				</div>

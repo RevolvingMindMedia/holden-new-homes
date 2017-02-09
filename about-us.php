@@ -47,10 +47,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <p>Brad Holden is Broker and President of Holden New Homes. He is a native Texan born and raised in Dallas, Texas.</p>
-                    <p>As a Real Estate Broker he has been involved in over 250 transactions in the past seven years of over 41 million in gross Sales to date. His brokerage has been in the top 50 brokerages in the Dallas Fort Worth Metroplex in Sales Volume for years 2005 and 2006.</p>
-                    <p>A considerable amount of his transactions have been residential investment properties specializing in 1031 exchanges. Brad has been featured in the media, D Magazine December 2005, for his efforts with out of state investors.</p>
-                    <p>Prior to his business career, Brad graduated from Plano Senior High School in Plano, Texas in 1997.  He holds a B.A. of Marketing in Business from Abilene Christian University in Abilene, Texas. Along with his Texas Real Estate Brokerage he is also licensed to sell securities with the State of Texas.</p>
+		    <p>Brad Holden is Broker and Owner of Holden New Homes. He is a native Texan born and raised in Dallas, Texas.</p>
+		    <p>As a Real Estate Broker he has been involved in over 1,100 transactions in the past thirteen years of over 155 million in gross sales to date February 2017). His brokerage has been in the top 50 brokerages in the Dallas Fort Worth Metroplex in Sales Volume for multiple years.</p>
+		    <p>A considerable amount of his transactions have been residential investment properties specializing in 1031 exchanges. Brad has been featured in the media, <strong><a href="http://www.dmagazine.com/publications/d-magazine/2005/december/real-estate-land-rush/" target="_blank">D Magazine December 2005</a></strong> , for his efforts with out of state investors.</p>
+		    <p>Prior to his business career, Brad graduated from Plano Senior High School in Plano, Texas in 1997. He holds a B.A. of Marketing in Business from Abilene Christian University in Abilene, Texas in 2001. Along with his Texas Real Estate Brokerage he is also licensed to sell securities with the State of Texas.</p>
                 </div>
                 <div class="col-sm-6">
                     <img src="img/about-us/brad-standing-by-house.jpg" class="img-responsive">
@@ -59,7 +59,8 @@
             <br><br>
             <div class="row">
                 <div class="col-sm-12">
-                    <img src="img/about-us/brad-family.jpg" class="img-responsive">
+		    <img src="img/about-us/brad-family.jpg" class="img-responsive">
+			<p>Brad and his wife Missy reside in Richwoods in Frisco, Texas with their two boys Jake and Jax.</p>
                 </div>
             </div>
             <br><br><br><br>
