@@ -52,7 +52,7 @@
                     <p>As Frisco realtors since 2005, we have compiled the best Frisco builders and have visited each city nearby to gather the most up to date information on New Homes in Collin County.</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/rebate.jpg" class="img-responsive">
+                    <img src="img/find-a-home/rebate.jpg" class="img-responsive">
                 </div>
             </div>
         </div>

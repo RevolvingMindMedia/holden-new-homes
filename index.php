@@ -169,7 +169,7 @@
 				</div>
 				<div class="col-md-3 col-sm-6">
 					<a href="http://revolvingmindmedia.com/" target="_blank">
-						<img src="img/logos/revolving-mind-media-logo.jpg" class="img-responsive img-centered" alt="">
+						<img src="img/logos/revolving-mind-media-logo.png" class="img-responsive img-centered" alt="">
 					</a>
 				</div>
 				<div class="col-md-3 col-sm-6">
