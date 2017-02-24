@@ -108,6 +108,7 @@
         </div>
     </section>
 
+	<cms:editable name="featured_properties" type="richtext">
     <section class="bg-light-gray">
         <div class="container">
             <div class="row">
@@ -149,6 +150,7 @@
             </div>
         </div>
     </section>
+	</cms:editable>
 
     <?php include('footer.php'); ?>
 

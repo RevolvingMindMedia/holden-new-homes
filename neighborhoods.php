@@ -44,6 +44,7 @@
         </div>
     </header>
 
+	<cms:editable name="body" type="richtext">
     <section>
         <div class="container">
             <div class="row">
@@ -53,14 +54,16 @@
             </div>
         </div>
     </section>
+	</cms:editable>
 
+	<cms:editable name="featured_neighborhoods" type="richtext">
     <section id="featured-neighborhoods" class="bg-light-gray">
         <div class="container text-center">
             <div class="row">
                 <div class="col-md-4 neighborhood-item">
                     <a href="#">
                         <div class="col-md-12">
-                            <img src="img/neighborhoods/richwoods.jpg" class="img-responsive">
+                            <img src="/img/neighborhoods/richwoods.jpg" class="img-responsive">
                             <br>
                             <h3>Richwoods</h3>
                             <h4>Frisco, Texas</h4>
@@ -71,7 +74,7 @@
                 <div class="col-md-4 neighborhood-item">
                     <a href="#">
                         <div class="col-md-12">
-                            <img src="img/neighborhoods/lexington.jpg" class="img-responsive">
+                            <img src="/img/neighborhoods/lexington.jpg" class="img-responsive">
                             <br>
                             <h3>Lexington</h3>
                             <h4>Frisco, Texas</h4>
@@ -82,7 +85,7 @@
                 <div class="col-md-4 neighborhood-item">
                     <a href="#">
                         <div class="col-md-12">
-                            <img src="img/neighborhoods/edgestone.jpg" class="img-responsive">
+                            <img src="/img/neighborhoods/edgestone.jpg" class="img-responsive">
                             <br>
                             <h3>Edgestone</h3>
                             <h4>Frisco, Texas</h4>
@@ -93,6 +96,7 @@
             </div>
         </div>
     </section>
+	</cms:editable>
 
     <?php include('footer.php'); ?>
 

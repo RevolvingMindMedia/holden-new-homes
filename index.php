@@ -38,18 +38,23 @@
 	<!-- Header -->
 	<header class="full">
 		<div class="container">
+			<cms:editable name="intro_text" type="richtext">	
 			<div class="intro-text">
 				<div class="intro-heading">We Know Real Estate</div>
 				<div class="intro-lead-in">Full-service residential real estate brokerage specializing in new homes</div>
 				<a href="contact-us.php" class="btn btn-xl">Contact Us</a>
 			</div>
+			</cms:editable>
 		</div>
 	</header>
 
+
+	<cms:editable name="spacer" type="richtext">	
 	<aside class="spacer text-center">
 		<h1>Call Us Today! (469) 733-2723</h1>
 		<p>Holden New Homes is a Frisco, Texas full-service residential real estate brokerage specializing in new homes in Frisco, Plano, Allen, Prosper and McKinney. Our special relationships with builders and developers allow us to pass their best pricing and incentives to our clients.  With over 13 years of experience in Collin County and the DFW Metroplex, Holden New Homes knows Real Estate!</p>
 	</aside>
+	</cms:editable>
 
 	<section>
 		<div class="container">
@@ -123,13 +128,15 @@
 	<section id="testamonials" class="bg-light-gray">
 		<div class="container">
 			<div class="row">
+				<cms:editable name="testamonial" type="richtext">	
 				<div class="testamonial col-md-8 col-md-offset-2">
-					<div class="testamonial-image"><img src="img/testamonials/lee_family.jpg"></div>
+					<div class="testamonial-image"><img src="/img/testamonials/lee_family.jpg"></div>
 					<div class="testamonial-caption">
 						<p>"Brad was very responsive, and he went over and above to find us a great home in Frisco in just one day. And he's down-to-earth: 0% pretense, 100% professional."</p>
 						<h4>Mike & Kelly Lee</h4>
 					</div>
 				</div>
+				</cms:editable>
 			</div>
 		</div>
 	</section>

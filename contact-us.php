@@ -44,6 +44,7 @@
         </div>
     </header>
 
+	<cms:editable name="contact_info" type="richtext">
     <section>
         <div class="container">
             <div class="row text-center">
@@ -55,6 +56,7 @@
             </div>
         </div>
     </section>
+	</cms:editable>
 
     <section class="bg-light-gray">
         <div class="container">

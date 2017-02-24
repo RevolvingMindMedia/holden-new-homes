@@ -44,6 +44,7 @@
         </div>
     </header>
 
+	<cms:editable name="body" type="richtext">
     <section>
         <div class="container">
             <div class="row">
@@ -59,7 +60,9 @@
             </div>
         </div>
     </section>
+	</cms:editable>
 
+	<cms:editable name="body_gray" type="richtext">
     <section class="bg-light-gray">
         <div class="container">
             <div class="row">
@@ -75,7 +78,9 @@
             </div>
         </div>
     </section>
+	</cms:editable>
 
+	<cms:editable name="body_bottom" type="richtext">
     <section>
         <div class="container">
             <div class="row">
@@ -86,6 +91,7 @@
             </div>
         </div>
     </section>
+	</cms:editable>
 
     <?php include('footer.php'); ?>
 

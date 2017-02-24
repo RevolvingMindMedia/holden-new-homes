@@ -44,6 +44,7 @@
         </div>
     </header>
 
+	<cms:editable name="body" type="richtext">
     <section>
         <div class="container">
             <div class="row">
@@ -57,7 +58,9 @@
             </div>
         </div>
     </section>
+	</cms:editable>
 
+	<cms:editable name="featured_communities" type="richtext">
     <section class="bg-light-gray">
         <div class="container">
             <div class="row text-center">
@@ -70,21 +73,21 @@
             <div class="row text-center">
                 <div class="col-md-4">
                     <a href="#" target="_blank">
-                        <img class="img-responsive" src="img/featured-properties/richwoods.jpg">
+                        <img class="img-responsive" src="/img/featured-properties/richwoods.jpg">
                         <br>
                         <caption>Richwoods in Frisco</caption>
                     </a>
                 </div>
                 <div class="col-md-4">
                     <a href="https://updatefrisco.com/category/lexington-frisco/" target="_blank">
-                        <img class="img-responsive" src="img/featured-properties/lawler-park.jpg">
+                        <img class="img-responsive" src="/img/featured-properties/lawler-park.jpg">
                         <br>
                         <caption>Lexington in Frisco</caption>
                     </a>
                 </div>
                 <div class="col-md-4">
                     <a href="https://updatefrisco.com/category/edgestone-at-legacy-frisco/" target="_blank">
-                        <img class="img-responsive" src="img/featured-properties/phillips-creek.jpg">
+                        <img class="img-responsive" src="/img/featured-properties/phillips-creek.jpg">
                         <br>
                         <caption>Edgestone in Frisco</caption>
                     </a>
@@ -92,12 +95,14 @@
             </div>
         </div>
     </section>
+	</cms:editable>
 
+	<cms:editable name="body_bottom" type="richtext">
     <section>
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <img src="img/find-a-home/find-a-home-billboards.jpg" class="img-responsive">
+                    <img src="/img/find-a-home/find-a-home-billboards.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-6">
                     <h3>DFW New Home Deals</h3>
@@ -108,6 +113,7 @@
             </div>
         </div>
     </section>
+	</cms:editable>
 
     <?php include('footer.php'); ?>
 
