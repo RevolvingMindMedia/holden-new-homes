@@ -18,9 +18,9 @@
 				<li>
 					<a href="about-us.php">About Us</a>
 				</li>
-				<li>
+				<!-- <li>
 					<a href="featured-properties.php">Featured Properties</a>
-				</li>
+				</li> -->
 				<li>
 					<a href="find-a-home.php">Find a Home</a>
 				</li>

@@ -47,9 +47,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <p>DFW Homes, more specifically North Texas Homes can be a difficult task due to the amount of home builders in Texas and Texas property for sale.</p>
-                    <p>We at Holden New Homes, have made the North Texas home search easier than ever by starting with each city to find your Collin County home. Whether you are looking for Plano homes, Frisco homes, Prosper homes, McKinney homes, Allen homes, Little Elm homes or The Colony homes, you have found the right website.</p>
-                    <p>As Frisco realtors since 2005, we have compiled the best Frisco builders and have visited each city nearby to gather the most up to date information on New Homes in Collin County.</p>
+		    <p>We at Holden New Homes, have made the North Texas home search easier than ever by showcasing communities on our blog at UpdateFrisco.com! We feel the community is the most important place to start which is why we are always giving updates on the latest and greatest in Frisco, Plano, McKinney, Allen and Prosper! And most of the time builders do not list every home on MLS so we also like to highlight opportunities that you cannot find on a real estate website. If you are looking for new, you have found the right website.</p>
+		    <p>Visit UpdateFrisco.com, scroll down to the right side column to see the links to your new home community!</p>
                 </div>
                 <div class="col-md-6">
                     <img src="img/find-a-home/rebate.jpg" class="img-responsive">
@@ -76,17 +75,17 @@
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a href="http://lawlerparkfrisco.com/lawler-park-frisco-homesites/" target="_blank">
+                    <a href="https://updatefrisco.com/category/lexington-frisco/" target="_blank">
                         <img class="img-responsive" src="img/featured-properties/lawler-park.jpg">
                         <br>
-                        <caption>Lawler Park</caption>
+                        <caption>Lexington in Frisco</caption>
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a href="http://phillipscreek.com/phillips-creek-ranch-frisco/" target="_blank">
+                    <a href="https://updatefrisco.com/category/edgestone-at-legacy-frisco/" target="_blank">
                         <img class="img-responsive" src="img/featured-properties/phillips-creek.jpg">
                         <br>
-                        <caption>Phillips Creek</caption>
+                        <caption>Edgestone in Frisco</caption>
                     </a>
                 </div>
             </div>

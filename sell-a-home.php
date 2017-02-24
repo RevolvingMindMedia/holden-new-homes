@@ -47,11 +47,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p>Everyone knows that the internet is king now for both buying and selling a home. With our experience in the past there are two main factors that actually sell a home. Here they are:</p>
+		    <p>Everyone knows that the internet is KING now for both buying and selling a home. We at Holden New Homes feel that these are the most important factors to consider to sell your home the FASTEST we can at the HIGHEST price! Here they are:</p>
                     <ol>
-                        <li>Price it right! – Many sellers overprice their home because they are too concerned about what they have added (wood floors, built-ins, granite counter-tops, etc.) and try to add that to the price.</li>
-                        <li>Pictures – The MLS is filled with awful pictures that do not give a home justice online or peak any buyers interest.</li>
-                        <li>Online Marketing – We spend the majority of our marketing money online, where buyers are shopping.</li>
+			<li>Price it right! – Depending on your current needs, we will give you our opinion on what pricing will work the best for you. Many sellers overprice their home because they feel what they have added gives the home more value (wood floors, built-ins, granite counter-tops, etc.) and try to add that to the price. This does help significantly by selling it faster!</li>
+                        <li>Pictures – Our photographer is by far the best! Specializing in architecture, your home will be shot at 4 feet high and each room will have three pictures taken (high light, portrait and low light) then all merged together on the computer for a stunning image.</li>
+			<li>Timing – Whether its June or December, we have almost perfected the specific day and time to list homes to maximize the opportunities for a buyer.</li>
                     </ol>
                     <p>With these and other experienced Marketing Techniques it greatly helps eliminate the hassle, anxiety and uncertainty of selling a home. Be real. Look at the numbers. And be okay with what the numbers show is happening in your area. If that doesn’t work, then hold off and sell your home later. You have to be happy.</p>
                 </div>

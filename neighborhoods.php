@@ -56,29 +56,7 @@
     <section id="featured-neighborhoods" class="bg-light-gray">
         <div class="container text-center">
             <div class="row">
-                <div class="col-md-3 neighborhood-item">
-                    <a href="#">
-                        <div class="col-md-12">
-                            <img src="img/neighborhoods/craig-ranch.jpg" class="img-responsive">
-                            <br>
-                            <h3>Craig Ranch</h3>
-                            <h4>McKinney, Texas</h4>
-                            <h5>$180's-$1mm+</h5>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-3 neighborhood-item">
-                    <a href="#">
-                        <div class="col-md-12">
-                            <img src="img/neighborhoods/lawler-park.jpg" class="img-responsive">
-                            <br>
-                            <h3>Lawler Park</h3>
-                            <h4>Frisco, Texas</h4>
-                            <h5>$390's-$550's</h5>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-3 neighborhood-item">
+                <div class="col-md-4 neighborhood-item">
                     <a href="#">
                         <div class="col-md-12">
                             <img src="img/neighborhoods/richwoods.jpg" class="img-responsive">
@@ -89,50 +67,25 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-md-3 neighborhood-item">
+                <div class="col-md-4 neighborhood-item">
                     <a href="#">
                         <div class="col-md-12">
-                            <img src="img/neighborhoods/austin-ridge.jpg" class="img-responsive">
+                            <img src="img/neighborhoods/lexington.jpg" class="img-responsive">
                             <br>
-                            <h3>Austin Ridge</h3>
+                            <h3>Lexington</h3>
                             <h4>Frisco, Texas</h4>
                             <h5>$250's-$410's</h5>
                         </div>
                     </a>
                 </div>
-            </div>
-            <br>
-            <div class="row">
-                <div class="col-md-3 neighborhood-item">
+                <div class="col-md-4 neighborhood-item">
                     <a href="#">
                         <div class="col-md-12">
-                            <img src="img/neighborhoods/phillips-creek.jpg" class="img-responsive">
+                            <img src="img/neighborhoods/edgestone.jpg" class="img-responsive">
                             <br>
-                            <h3>Phillips Creek</h3>
+                            <h3>Edgestone</h3>
                             <h4>Frisco, Texas</h4>
-                            <h5>$390's-$750's</h5>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-3 neighborhood-item">
-                    <a href="#">
-                        <div class="col-md-12">
-                            <img src="img/neighborhoods/star-creek.jpg" class="img-responsive">
-                            <br>
-                            <h3>StarCreek</h3>
-                            <h4>Allen, Texas</h4>
-                            <h5>$390's-$650's</h5>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-3 neighborhood-item">
-                    <a href="#">
-                        <div class="col-md-12">
-                            <img src="img/neighborhoods/kathryn-park.jpg" class="img-responsive">
-                            <br>
-                            <h3>Kathryn Park</h3>
-                            <h4>Plano, Texas</h4>
-                            <h5>$320's-$450's</h5>
+                            <h5>$250's-$410's</h5>
                         </div>
                     </a>
                 </div>

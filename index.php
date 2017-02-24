@@ -158,8 +158,8 @@
 			</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-6">
-					<a href="http://www.youplusdallas.com/" target="_blank">
-						<img src="img/logos/you-dallas-logo.jpg" class="img-responsive img-centered" alt="">
+					<a href="http://updatefrisco.com/" target="_blank">
+						<img src="img/logos/update-frisco-logo.jpg" class="img-responsive img-centered" alt="">
 					</a>
 				</div>
 				<div class="col-md-3 col-sm-6">
