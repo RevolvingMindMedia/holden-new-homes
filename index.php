@@ -86,17 +86,13 @@
 					</div>
 				</div>
 				<div class="col-sm-4 portfolio-item">
-					<div class="img-responsive">
-						<img src="/img/neighborhoods/lexington.jpg" class="img-responsive">
-					</div>
+					<img src="/img/neighborhoods/lexington.jpg" class="img-responsive">
 					<div class="portfolio-caption">
 						<h4>For more on Lexington in Frisco click <a href="https://updatefrisco.com/2015/09/02/announcing-lexington-in-frisco-a-new-gated-community-with-shaddock-homes-k-hovnanian-homes-khov-toll-brothers-and-landon-signature-series-homes/" target="_blank">here</a></h4>
 					</div>
 				</div>
 				<div class="col-sm-4 portfolio-item">
-					<div class="embed-responsive embed-responsive-16by9">
-					    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ceNYx3og3tE" frameborder="0" allowfullscreen></iframe>
-					</div>
+					<img src="/img/neighborhoods/edgestone.jpg" class="img-responsive">
 					<div class="portfolio-caption">
 						<h4>For more on Edgestone in Frisco click <a href="https://updatefrisco.com/2015/08/28/edgestone-at-legacy-in-frisco-announced-by-developer-hines-for-2016/" target="_blank">here</a></h4>
 					</div>
